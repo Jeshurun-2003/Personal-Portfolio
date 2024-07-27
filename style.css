@@ -138,3 +138,8 @@ a:hover {
 
 /* Sections */
 
+section {
+    padding-top: 4vh;
+    height: 96vh;
+    
+}
